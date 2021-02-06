@@ -1,2 +1,2 @@
 # pythona
-project_django_1
+find the product search in amazon. give the price details the save the detail incsv formate.
